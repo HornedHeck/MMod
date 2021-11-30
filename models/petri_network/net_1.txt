@@ -1,0 +1,4 @@
+/home/hornedheck/PycharmProjects/scientificProject/data/petry_csv/netwrok_1_i.csv
+/home/hornedheck/PycharmProjects/scientificProject/data/petry_csv/netwrok_1_o.csv
+0 0 1 1 0 1
+/home/hornedheck/PycharmProjects/scientificProject/data/petry_plots/net1

@@ -1,0 +1,5 @@
+numpy
+pycairo
+matplotlib
+pandas
+igraph
